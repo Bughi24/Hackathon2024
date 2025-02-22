@@ -1,0 +1,1 @@
+Acest proiect este un robot autonom bazat pe Arduino, capabil să rezolve un labirint folosind un algoritm de urmărire a liniei. Robotul utilizează senzori pentru a detecta traseul și implementează o strategie de învățare și optimizare a rutei pentru a găsi cea mai rapidă cale prin labirint.
